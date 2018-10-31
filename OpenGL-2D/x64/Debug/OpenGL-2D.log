@@ -1,0 +1,13 @@
+﻿  Drawable.cpp
+  InputHandler.cpp
+  Player.cpp
+  Projectile.cpp
+  Renderer.cpp
+  Sprite.cpp
+  Text.cpp
+  Timer.cpp
+  World.cpp
+  main.cpp
+  Generating Code...
+c:\users\denis\source\repos\dsg-2018\opengl-2d\world.cpp(56): warning C4715: 'World::getPlayer': not all control paths return a value
+  OpenGL-2D.vcxproj -> C:\Users\denis\source\repos\DSG-2018\x64\Debug\02.OpenGL-2D.exe
